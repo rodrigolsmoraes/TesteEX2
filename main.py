@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 #git é melhor que svn
-#nova alteração
+#nova alteração2
 =======
 #hello word
 #abacaxi
