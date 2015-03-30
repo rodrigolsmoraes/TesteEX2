@@ -1,1 +1,2 @@
 #Arquivo calc
+#Função soma
