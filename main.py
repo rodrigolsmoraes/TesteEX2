@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #git é melhor que svn
-#abacate
+
+=======
+#hello word
+#abacaxi
+>>>>>>> desenvolvimento
